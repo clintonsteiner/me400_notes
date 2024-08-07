@@ -1,6 +1,7 @@
-    sphinx
+    sphinx==5.0
     ipython
     ipykernel
-    nbsphinx
+    nbsphinx<=0.8.6
+    jupyter-sphinx
     matplotlib
     sympy
