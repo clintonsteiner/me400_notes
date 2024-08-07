@@ -1,5 +1,5 @@
     sphinx
     ipython
     nbsphinx
-    matplotlib>=3.9.1.post1
-    sympy>=1.13.1
+    matplotlib
+    sympy
