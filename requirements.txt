@@ -1,5 +1,6 @@
     sphinx
     ipython
+    ipykernel
     nbsphinx
     matplotlib
     sympy
