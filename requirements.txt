@@ -1,0 +1,7 @@
+    sphinx
+    ipython
+    ipykernel
+    nbsphinx
+    jupyter-sphinx
+    matplotlib
+    sympy

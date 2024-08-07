@@ -6,7 +6,7 @@ SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = ME400CourseNotes
 SOURCEDIR     = source
-BUILDDIR      = /home/robertsj/Research/me400_notes_build
+BUILDDIR      = build
 
 # Put it first so that "make" without argument is like "make help".
 help:
